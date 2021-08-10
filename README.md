@@ -12,6 +12,7 @@ for monitoring Air Quality as it detects most harmful
 gases and can measure their amount accurately. 
 
 
+
 Here to make an IOT Based Air 
 Pollution Monitoring System in which we will monitor 
 the Air quality over a web server using internet. It will 
@@ -38,6 +39,8 @@ the Arduino Sketch. The Arduino sketch is written,
 compiled and loaded to the Arduino board using 
 Arduino IDE.
 
+![image](https://user-images.githubusercontent.com/61411787/128814715-8e6ff39a-8922-4ab3-a788-fc58d2eb23db.png)
+
 ThingSpeak is a free 
 web service that lets you collect and store sensor data 
 in the cloud and develop IOT applications. ThingSpeak web service provides apps that let you The act on the 
@@ -45,3 +48,7 @@ data. Sensor data can be sent to ThingSpeak from
 Arduino, Raspberry Pi, and other hardware. Then we 
 can use the data to show on our mobile app. Link for 
 Thingspeak channel: https://thingspeak.com/channels/635773
+
+![image](https://user-images.githubusercontent.com/61411787/128814740-b69f2068-a930-4be4-a50c-51b03390049b.png)
+![image](https://user-images.githubusercontent.com/61411787/128814755-418f487d-e62f-47a4-96e8-10dae795f1b1.png)
+
