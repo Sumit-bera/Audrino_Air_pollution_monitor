@@ -37,3 +37,11 @@ ThingSpeak server using Wi-Fi module is managed by
 the Arduino Sketch. The Arduino sketch is written, 
 compiled and loaded to the Arduino board using 
 Arduino IDE.
+
+ThingSpeak is a free 
+web service that lets you collect and store sensor data 
+in the cloud and develop IOT applications. ThingSpeak web service provides apps that let you The act on the 
+data. Sensor data can be sent to ThingSpeak from 
+Arduino, Raspberry Pi, and other hardware. Then we 
+can use the data to show on our mobile app. Link for 
+Thingspeak channel: https://thingspeak.com/channels/635773
